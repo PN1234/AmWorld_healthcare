@@ -94,9 +94,9 @@ footer.nb-footer .copyright p {
                 <div class="footer-info-single">
                     <h2 class="title">Contact Us</h2>
                     <xl class="list-unstyled">
-                        <lx>+91 9876 876 876</lx>
-                        <lx><a href="mailto: ">contact@amworld.com</a></lx>
-                        <lx>Adress of Amworld, Indore (MP), Pincode: 452001</lx>
+                        <lx>+91 7974521957</lx>
+                        <lx><a href="mailto: ">amworldhealthcare.com</a></lx>
+                        <lx>Adress of Amworld,Crystal IT Park(SEZ), Bldg 1 Ground floor, # 21-24, Indrapuri Colony, Indore, Madhya Pradesh Pincode: 452001</lx>
                         <lx></lx>
                     </xl>
                 </div>
